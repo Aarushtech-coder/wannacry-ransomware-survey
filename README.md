@@ -1,0 +1,1 @@
+# wannacry-ransomware-survey
